@@ -10,8 +10,8 @@ Rails.application.routes.draw do
   
  
   # You can have the root of your site routed with "root"
-  # root 'welcome#index'
-   root '#Users#jaleh#Desktop#railsinstaller_osx_demo'
+  root 'welcome#index'
+   #root '#Users#jaleh#Desktop#railsinstaller_osx_demo'
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
 
